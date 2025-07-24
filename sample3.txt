@@ -1,6 +1,0 @@
-hello to you this day
-I want to write on sample.txt file
-Append new line to the file
-this is another append line
-Addd new line to the file
-Addd new line to the file
